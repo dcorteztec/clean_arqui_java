@@ -1,4 +1,4 @@
-"Sistema baseado, não foi pensado ficar 100% igual ao sistema proposto ao livro"
+"Sistema baseado, não foi pensado pra ficar 100% igual ao sistema proposto ao livro"
 
 Clean Architecture é uma arquitetura de software proposta por Robert Cecil Martin (ou Uncle Bob, como é mais conhecido) que tem por objetivo padronizar e organizar o código desenvolvido, favorecer a sua reusabilidade, assim como independência de tecnologia.
 
